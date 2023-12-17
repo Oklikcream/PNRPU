@@ -28,16 +28,16 @@ int main() {
 	double a, b;
 	int maxIterations = 1000;
 
-	cout << "Ââåäèòå ëåâóþ ãðàíèöó: ";
+	cout << "Введите границу слева: ";
 	cin >> a;
-	cout << "Ââåäèòå ïðàâóþ ãðàíèöó: ";
+	cout << "Введите границу справа: ";
 	cin >> b;
 
 	double x0 = (a + b) / 2;
 
 	double x = iterative(x0, maxIterations, epsilon);
 
-	cout << "Ïðèáëèçèòåëüíûé êîðåíü óðàâíåíèÿ: " << x;
+	cout << "Приблизительное значение корня: " << x;
 
 	return 0;
 }
