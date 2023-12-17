@@ -10,7 +10,7 @@ int main() {
 	double a, b, x, fb, fx;
 	cout << "Введите предел слева: ";
 	cin >> a;
-	cout << "ведите предел справа: ";
+	cout << "Введите предел справа: ";
 	cin >> b;
 
 	while (abs(b - a) >= epsilon) {
