@@ -11,16 +11,22 @@ double f(double x) {
 
 double iterative(double x0, int maxIterations, double epsilon) {
 	double currentX = x0;
+	int coun = 0;
 
 	for (int i = 0; i < maxIterations; i++) {
 		double nextX = f(currentX);
 
+		cout << nextX << endl;
+		coun += 1;
+
 		if (abs(nextX - currentX) < epsilon) {
+			cout << "Øàãè: " << coun << endl;
 			return nextX;
 		}
 		currentX = nextX;
 	}
 
+	cout << "Øàãè: " << coun << endl;
 	return currentX;
 }
 int main() {
@@ -28,16 +34,16 @@ int main() {
 	double a, b;
 	int maxIterations = 1000;
 
-	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð³Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ»ÐµÐ²Ð°: ";
+	cout << "Ââåäèòå ëåâóþ ãðàíèöó: ";
 	cin >> a;
-	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð³Ñ€Ð°Ð½Ð¸Ñ†Ñƒ ÑÐ¿Ñ€Ð°Ð²Ð°: ";
+	cout << "Ââåäèòå ïðàâóþ ãðàíèöó: ";
 	cin >> b;
 
 	double x0 = (a + b) / 2;
 
 	double x = iterative(x0, maxIterations, epsilon);
 
-	cout << "ÐŸÑ€Ð¸Ð±Ð»Ð¸Ð·Ð¸Ñ‚ÐµÐ»ÑŒÐ½Ð¾Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ ÐºÐ¾Ñ€Ð½Ñ: " << x;
+	cout << "Ïðèáëèçèòåëüíûé êîðåíü óðàâíåíèÿ: " << x;
 
 	return 0;
 }

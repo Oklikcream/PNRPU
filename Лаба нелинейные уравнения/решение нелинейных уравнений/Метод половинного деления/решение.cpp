@@ -8,13 +8,17 @@ const double epsilon = 1e-6;
 int main() {
 	setlocale(LC_ALL, "Rus");
 	double a, b, x, fb, fx;
-	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¿Ñ€ÐµÐ´ÐµÐ» ÑÐ»ÐµÐ²Ð°: ";
+	int coun = 0;
+	cout << "Ââåäèòå ëåâóþ ãðàíèöó: ";
 	cin >> a;
-	cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð¿Ñ€ÐµÐ´ÐµÐ» ÑÐ¿Ñ€Ð°Ð²Ð°: ";
+	cout << "Ââåäèòå ïðàâóþ ãðàíèöó: ";
 	cin >> b;
 
 	while (abs(b - a) >= epsilon) {
 		x = (a + b) / 2;
+
+		cout << x << endl;
+		coun += 1;
 
 		fb = pow(2.7183, b) - pow(2.7183, -b) - 2;
 		fx = pow(2.7183, x) - pow(2.7183, -x) - 2;
@@ -25,6 +29,7 @@ int main() {
 			b = x;
 	}
 
-	cout << "ÐŸÑ€Ð¸Ð±Ð»Ð¸Ð¶ÐµÐ½Ð½Ñ‹Ð¹ ÐºÐ¾Ñ€ÐµÐ½ÑŒ: " << b;
+	cout << "Øàãè: " << coun << endl;
+	cout << "Ïðèáëèçèòåëüíûé êîðåíü óðàâíåíèÿ: " << x;
 	return 0;
 }
