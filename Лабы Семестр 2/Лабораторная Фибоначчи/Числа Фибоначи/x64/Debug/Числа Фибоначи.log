@@ -1,0 +1,3 @@
+﻿  Числа Фибоначи.cpp
+C:\Users\user\source\repos\Числа Фибоначи\Числа Фибоначи.cpp(18,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Числа Фибоначи.vcxproj -> C:\Users\user\source\repos\Числа Фибоначи\x64\Debug\Числа Фибоначи.exe
