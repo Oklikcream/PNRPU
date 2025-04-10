@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="TransportLib">
+      <HintPath>..\..\..\Libraries\TransportLib.dll</HintPath>
+    </Reference>
+    <Reference Include="UsefulLib">
+      <HintPath>..\..\..\Libraries\UsefulLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

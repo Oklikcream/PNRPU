@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Определение компонент связности графа.exe
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Определение компонент связности графа.deps.json
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Определение компонент связности графа.runtimeconfig.json
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Определение компонент связности графа.dll
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Определение компонент связности графа.pdb
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение_компонент_связности_графа.Form1.resources
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение компонент связности графа.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение компонент связности графа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение компонент связности графа.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение компонент связности графа.AssemblyInfo.cs
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение компонент связности графа.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение компонент связности графа.dll
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\refint\Определение компонент связности графа.dll
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение компонент связности графа.pdb
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Определение компонент связности графа.genruntimeconfig.cache
+C:\Users\user\Desktop\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\ref\Определение компонент связности графа.dll

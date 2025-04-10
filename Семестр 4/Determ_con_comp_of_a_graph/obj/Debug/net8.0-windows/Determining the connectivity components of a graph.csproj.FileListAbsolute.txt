@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Determining the connectivity components of a graph.exe
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Determining the connectivity components of a graph.deps.json
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Determining the connectivity components of a graph.runtimeconfig.json
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Determining the connectivity components of a graph.dll
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\bin\Debug\net8.0-windows\Determining the connectivity components of a graph.pdb
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determ_con_comp_of_a_graph.Form1.resources
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determining the connectivity components of a graph.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determining the connectivity components of a graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determining the connectivity components of a graph.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determining the connectivity components of a graph.AssemblyInfo.cs
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determining the connectivity components of a graph.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determining the connectivity components of a graph.dll
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\refint\Determining the connectivity components of a graph.dll
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determining the connectivity components of a graph.pdb
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\Determining the connectivity components of a graph.genruntimeconfig.cache
+C:\Users\user\Desktop\Учёба\Все лабы\Семестр 4\Определение компонент связности графа\obj\Debug\net8.0-windows\ref\Determining the connectivity components of a graph.dll
